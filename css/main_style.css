@@ -88,7 +88,7 @@ body {
 }
 
 #wrap {
-    min-width: 1320px;
+    min-width: 1400px;
 
 }
 
@@ -1442,5 +1442,6 @@ border: none;
 .icon_box:hover {
     transform: translate(0, -10px);
 }
+
 
 /*  */
