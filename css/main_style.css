@@ -324,7 +324,6 @@ body {
     /* background-color: yellow; */
     position: sticky;
     top: 247px;
-    left: 0;
 }
 
 .race_img {
@@ -1487,5 +1486,6 @@ body {
 .icon_box:hover {
     transform: translate(0, -10px);
 }
+
 
 /*  */
