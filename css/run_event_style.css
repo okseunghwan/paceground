@@ -483,7 +483,7 @@ progress::-moz-progress-value {
 }
 
 .event_img:hover.event_img img {
-    transform: translate(20px, -20px);
+    transform: translate(10px, -10px);
 }
 .gray_box{
     background-color: #ccc;
@@ -769,5 +769,6 @@ a:focus {
 .icon_box:hover {
     transform: translate(0, -10px);
 }
+
 
 /*  */
